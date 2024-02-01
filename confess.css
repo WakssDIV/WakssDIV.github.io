@@ -7,7 +7,7 @@
 }
 h1{
     font-family: myfont;
-    font-size: xxx-large;
+    font-size: x-large;
     color: palevioletred;
 }
 
@@ -17,7 +17,8 @@ h1{
 }
 body{
     font-family: myfont;
-    font-size: x-large ;
+    font-size: x-large;
+      overflow: hidden;
 }
 .takecare{
     padding-left: 400px;
@@ -31,8 +32,3 @@ body{
     cursor: pointer;
     padding-left: 400px;
 }
-img {
-    max-width: 100%;
-    height: auto;
-  }
-  
