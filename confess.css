@@ -1,3 +1,8 @@
+/* Example of a media query for mobile devices */
+@media only screen and (max-width: 600px) {
+    
+  }
+  
 @font-face {
     font-family: myfont;
     src: url(confession.ttf);
@@ -14,17 +19,22 @@ h1{
 }
 body{
     font-family: myfont;
-    font-size: xx-large;
+    font-size: x-large ;
 }
 .takecare{
-    padding-left: 550px;
+    padding-left: 400px;
 }
 
 .great{
-    padding-left: 550px;
+    padding-left: 400px;
 }
 .lol{
     width: 100px;
     cursor: pointer;
-    padding-left: 500px;
+    padding-left: 400px;
 }
+img {
+    max-width: 100%;
+    height: auto;
+  }
+  
