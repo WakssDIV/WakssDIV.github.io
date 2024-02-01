@@ -25,10 +25,10 @@ body{
 }
 
 .great{
-    padding-left: 400px;
+    padding-right: 400px;
 }
 .lol{
     width: 100px;
     cursor: pointer;
-    padding-left: 400px;
+    padding-right: 400px;
 }
