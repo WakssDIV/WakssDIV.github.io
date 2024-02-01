@@ -7,3 +7,23 @@ h1{
     font-size: xxx-large;
     color: palevioletred;
 }
+
+@font-face {
+    font-family: myfont;
+    src: url(confession.ttf);
+}
+body{
+    font-family: myfont;
+    font-size: xx-large;
+}
+.takecare{
+    padding-left: 400px;
+}
+
+.great{
+    padding-left: 400px;
+}
+.lol{
+    width: 100px;
+    cursor: pointer;
+}
